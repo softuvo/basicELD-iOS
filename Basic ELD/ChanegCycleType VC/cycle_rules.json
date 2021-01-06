@@ -1,0 +1,52 @@
+{
+    "cycle_rules": [
+               {
+                   "id": "1",
+                   "cycle_type": "USA 70 hours /8 days"
+               },
+               {
+                   "id": "2",
+                   "cycle_type": "USA 60 hours /7 days"
+               },
+               {
+                   "id": "3",
+                   "cycle_type": "California 80 hours /8 days"
+               },
+               {
+                   "id": "4",
+                   "cycle_type": "Texas 70 hours / 7 days"
+               },
+               {
+                   "id": "5",
+                   "cycle_type": "Alaska 70 hours /7 days"
+               },
+               {
+                   "id": "6",
+                   "cycle_type": "Alaska 80 hours /8 days"
+               },
+               {
+                   "id": "7",
+                   "cycle_type": "Canada South 70 hours / 7 days"
+               },
+               {
+                   "id": "8",
+                   "cycle_type": "Canada South 120 hours / 14 days"
+               },
+               {
+                   "id": "9",
+                   "cycle_type": "Canada South Oil and Gas"
+               },
+               {
+                   "id": "10",
+                   "cycle_type": "Canada North 80 hours / 7 days"
+               },
+               {
+                   "id": "11",
+                   "cycle_type": "Canada North 120 hours /  14 days"
+               },
+               {
+                   "id": "12",
+                   "cycle_type": "Others"
+               }
+               ]
+}

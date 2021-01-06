@@ -1,0 +1,6 @@
+framework module ARSlidingPanel {
+  umbrella header "ARSlidingPanel-umbrella.h"
+
+  export *
+  module * { export * }
+}
